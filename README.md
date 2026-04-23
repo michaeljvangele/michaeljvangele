@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hello, I'm Michael!
 
-<!--
-**michaeljvangele/michaeljvangele** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Student here at The University of South Florida studying Finance.
+I additionally serve on the Senate for the student body of the Tampa Campus, being elected in Spring of 2026.
 
-Here are some ideas to get you started:
+Ideally, I am looking to work in analytics or a field related where I can apply valuable insight to help solve real-world problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently developing my skills in:
+- Microsoft Excel
+- Financial Accounting
+- Data Analysis
+- Python, C++
+
+I am passionate about continuing to strengthen my technical abilities, as I continue towards my career in Finance and analytics.
